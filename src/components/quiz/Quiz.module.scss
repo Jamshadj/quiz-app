@@ -1,0 +1,13 @@
+.container {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; 
+  min-width: 100vw;
+  background-color: #252D30;
+}
+
+.card {
+  padding: 20px;
+  text-align: center; 
+}
